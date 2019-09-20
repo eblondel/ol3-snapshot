@@ -34,6 +34,7 @@ The ``ol.control.Snapshot`` accepts a single ``opt_options`` parameter (of type 
 |`className`|`String`| control CSS class name. Default value is ``ol-snapshot``|
 |`label`|`String`| Label displayed as control button. Default value is camera image html markup that will displays as button|
 |`tipLabel`|`String`| Tip label displayed on mouse over the control button. Default value is ``Snapshot``|
+|`dpi`|`Integer`| DPI for the snapshot to be exported
 
 #### Extends
 
