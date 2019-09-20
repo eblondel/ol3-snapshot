@@ -1,0 +1,23 @@
+{
+  "name": "ol3-snapshot",
+  "version": "1.0.0",
+  "description": "Snapshot control for OpenLayers 3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eblondel/ol3-snapshot.git"
+  },
+  "author": "Emmanuel Blondel <emmanuel.blondel1@gmail.com>",
+  "contributors": [
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eblondel/ol3-snapshot/issues"
+  },
+  "dependencies": {
+    "openlayers": "~3.11.1"
+  },
+  "devDependencies": {
+    "jsdoc": "~3.3.0-beta1",
+    "jsdoc-to-markdown": "^1.2.1"
+  }
+}

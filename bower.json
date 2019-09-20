@@ -1,0 +1,29 @@
+{
+  "name": "ol3-snapshot",
+  "version": "1.0.0",
+  "homepage": "https://github.com/eblondel/ol3-snapshot",
+  "authors": [
+    "Emmanuel Blondel <emmanuel.blondel1@gmail.com>"
+  ],
+  "contributors": [
+  ],
+  "description": "Map snapshot control for OpenLayers 3",
+  "main": [
+    "src/ol3-snapshot.js",
+    "src/ol3-snapshot.css"
+  ],
+  "keywords": [
+    "openlayers",
+    "ol3",
+    "snapshot",
+    "map",
+    "layer",
+	"canvas"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
