@@ -1,5 +1,5 @@
 /**
- * ol3-zoomtomaxextent - v1.0.0 - 2019-09-19
+ * ol3-snapshot - v1.0.0 - 2019-09-19
  * Copyright (c) 2019 Emmanuel Blondel
  * 
  * Permission is hereby granted, free of charge, to any person obtaining a copy of this software 
