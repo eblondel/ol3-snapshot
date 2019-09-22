@@ -1,6 +1,6 @@
 # OpenLayers 3 Map snapshot
 
-ZoomToMaxExtent control for an [OL3](https://github.com/openlayers/ol3) map.
+Snapshot control for an [OL3](https://github.com/openlayers/ol3) map.
 
 This module has been initially developed for the needs of the OpenFIGIS [FigisMap](https://github.com/openfigis/FigisMap) project used as web-mapping framework in the FAO Fisheries & Aquaculture [website](http://www.fao.org/fishery/en), principally through the Fisheries Global Information System (FIGIS).
 
